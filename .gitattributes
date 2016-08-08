@@ -1,0 +1,16 @@
+# Set default behaviour, in case users don't have core.autocrlf set.
+* text=auto
+
+*.py text
+*.m text
+*.R text
+*.idf text
+*.md text
+*.txt text
+*.csv text
+*.ipynb text
+
+*.fig binary
+*.dbf binary
+*.shp binary
+*.shx binary

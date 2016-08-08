@@ -1,0 +1,15 @@
+# Python
+*.pyc
+build/
+dist/
+__pycache__
+*.egg-info
+.cache/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# R
+.Rhistory
+.Rapp.history
+.RData
