@@ -14,4 +14,8 @@ __pycache__
 .Rapp.history
 .RData
 
+# FMU
+Output_EPExport_Slave/
+
+# work space
 temp
